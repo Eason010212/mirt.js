@@ -8,5 +8,3 @@
 * **Parameter Estimation:** Support for Expectation-Maximization (EM) and Stochastic Gradient Descent (SGD) via TensorFlow.js.
 * **Scoring Engines:** Implement EAP (Expected A Posteriori) and MAP (Maximum A Posteriori) scoring.
 * **Zero Latency:** Perform complex psychometric scoring on the client side without sending raw data to a server.
-
-### UNDER_DEVELOPMENT
